@@ -2,7 +2,7 @@
 
 This code is the combination of:
 1. NeuroNLP2 (https://github.com/XuezheMax/NeuroNLP2) -- paper: Deep Biaffine Attention for Neural Dependency Parsing (https://arxiv.org/abs/1611.01734).
-2. Neural RST Parser (Our implementation in Pytorch) -- paper: Transition-based Neural RST Parsing with Implicit Syntax Features (https://www.aclweb.org/anthology/C18-1047/).
+2. Neural RST Parser (https://github.com/fajri91/NeuralRST) -- paper: Transition-based Neural RST Parsing with Implicit Syntax Features (https://www.aclweb.org/anthology/C18-1047/).
 
 This code is used to extract:
 1. Latent feature of discourse units.
