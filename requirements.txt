@@ -17,7 +17,7 @@ ipython-genutils==0.2.0
 jmespath==0.9.3
 mkl-fft==1.0.6
 mkl-random==1.0.1
-nltk==3.4.1
+nltk==3.4.5
 numpy==1.16.1
 pathlib2==2.3.3
 pexpect==4.6.0
