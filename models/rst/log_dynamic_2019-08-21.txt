@@ -1,0 +1,50 @@
+2019-08-21 12:03:22,413 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,414 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,414 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,414 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,414 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,448 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,448 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,448 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,448 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,448 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,448 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,449 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,449 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,449 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,449 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,451 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,452 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,452 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,452 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,452 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,476 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,476 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,476 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,476 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,476 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,476 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,476 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,476 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,477 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,477 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,477 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,477 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,477 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,477 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,477 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,487 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,488 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,488 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,488 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,488 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,504 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,504 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,504 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,505 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,505 - RSTParser RUN - Etype alphabet size: 3
+2019-08-21 12:03:22,519 - RSTParser RUN - Word alphabet size: 13346
+2019-08-21 12:03:22,519 - RSTParser RUN - Tag alphabet size: 47
+2019-08-21 12:03:22,520 - RSTParser RUN - Gold action alphabet size: 43
+2019-08-21 12:03:22,520 - RSTParser RUN - Action Label alphabet size: 18
+2019-08-21 12:03:22,520 - RSTParser RUN - Etype alphabet size: 3
