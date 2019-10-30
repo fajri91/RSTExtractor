@@ -27,4 +27,4 @@ Now you are ready to extaract latent/shallow features as well as the RST tree.
 2. For shallow feature, please first run `python extract_tree.py` and after that run `python extract_shallow_feature.py`
 
 Note1: Please manually adjust all PATHs in the code as I have'nt implemented args.parse in the code. <br />
-Note2: Our RST parser performance is similar with _Transition-based Neural RST Parsing with Implicit Syntax Features_ (https://www.aclweb.org/anthology/C18-1047/).
+Note2: Our RST parser performance is similar to _Transition-based Neural RST Parsing with Implicit Syntax Features_ (https://www.aclweb.org/anthology/C18-1047/).
