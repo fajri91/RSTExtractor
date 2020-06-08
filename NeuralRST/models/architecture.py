@@ -287,7 +287,11 @@ class MainArchitecture(nn.Module):
             self.batch_steps[idx] = 0
             self.batch_states[idx][0].clear()
             self.batch_states[idx][0].ready(len_edus[idx]) #set ready
-        
+            #Increase batch state stepsize from 1024
+            if len_edus*2>1024:
+                for idy in range(len_edus*2-1024+1):
+                    self.batch_states[idx].append(CState())
+ 
         all_decoder_output = []
         optimal_action_ids = []
         while(self.not_all_finished(batch_size)):
