@@ -19,7 +19,7 @@ There are three main steps:
 1. Using standford corenlp. After downloading the appropriate stanford corenlp, please run `python corenlp.py --source=PATH_TO_YOUR_DOCUMENTS/* --target=PATH_TO_YOUR_OUTPUT`.  Please make sure you put all the necessary files of stanford corenlp in this repo with a folder name `stanford-corenlp`.
 2. For the next two steps, please follow https://github.com/fajri91/DPLP for:
   * Converting XML file to CoNLL format.
-  * Segmenting CoNLL file to get EDUs. The output is *.segment file.
+  * Segmenting CoNLL file to get EDUs. The output is *.merge file.
 
 ## Extraction
 Now you are ready to extaract latent/shallow features as well as the RST tree.
