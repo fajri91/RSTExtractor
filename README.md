@@ -8,7 +8,9 @@ This code is used to extract:
 1. Latent feature of discourse units.
 2. Shallow feature of discourse units.
 
-For more technical details, please refer to our paper: Fajri Koto, Jey Han Lau, Timothy Baldwin. [Improved Document Modelling with a Neural Discourse Parser.](https://www.aclweb.org/anthology/U19-1010.pdf) In Proceedings of the 2019 Australasian Language Technology Workshop, Sydney.
+For more technical details, please refer to our paper: 
+
+Fajri Koto, Jey Han Lau, Timothy Baldwin. [Improved Document Modelling with a Neural Discourse Parser.](https://www.aclweb.org/anthology/U19-1010.pdf) In Proceedings of the 2019 Australasian Language Technology Workshop, Sydney.
 
 ## Dependencies and Installation
 1. Python 2.7
