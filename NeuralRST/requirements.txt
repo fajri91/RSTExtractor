@@ -23,7 +23,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.6.0
 Pygments==2.3.1
 python-dateutil==2.8.0
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 s3transfer==0.2.0
 scandir==1.9.0
