@@ -18,7 +18,7 @@ jmespath==0.9.3
 mkl-fft==1.0.6
 mkl-random==1.0.1
 nltk==3.4.1
-numpy==1.16.1
+numpy==1.22.0
 pathlib2==2.3.3
 pexpect==4.6.0
 pickleshare==0.7.5
